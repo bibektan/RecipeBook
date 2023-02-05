@@ -1,0 +1,16 @@
+/* h1, h2, h3, h4, h5, p{
+    text-align: center;
+} */
+
+.like-btn{
+    background: transparent;
+    border: transparent;
+    font-size: 1.5rem;
+    cursor: pointer;
+    transition: transparent 0.5s ease;
+}
+
+.like-btn:hover{
+    color: rgb(94, 0, 0);
+    transform: translateY(-2px);
+}
